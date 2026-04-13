@@ -5,7 +5,7 @@ I specialize in building scalable architectures and automation tools. Currently,
 Here, I share personal projects that I use for learning and managing my own homelab.
 
 ### Technical Core
-- **Main Languages:** Go, Python, JavaScript/TypeScript (Node.js)
+- **Languages:** Go, Python, JavaScript/TypeScript (Node.js)
 - **Frontend:** React.js
 - **Data:** SQL Server, PostgreSQL, Web Scraping (Selenium, Pandas)
 
@@ -14,7 +14,7 @@ Here, I share personal projects that I use for learning and managing my own home
 - **Homelab & Virtualization:** Proxmox, TrueNAS, iSCSI configurations
 - **Networking:** Nginx, Cloudflare Tunnels, Pi-hole
 
-### Cybersecurity Journey
+### Cybersecurity
 I am currently studying **Cybersecurity** at PUCPR, focusing on:
 - Systems & Network Security
 - Security-by-design for high-scale applications
